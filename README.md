@@ -2,15 +2,11 @@
 
 A desktop-based application that collects student information, captures a live webcam image using OpenCV, and stores structured records in a CSV file. The project demonstrates cross-language integration between C++ (backend processing) and C# (Windows Forms UI).
 
----
-
 ## Overview
 
 This project is designed to simulate a basic student registration and ID generation system. It combines native C++ logic for data processing and image capture with a user-friendly C# Windows Forms interface.
 
 The system captures student details along with a live image and stores everything in a structured format, making it suitable for small-scale academic or institutional use.
-
----
 
 ## Features
 
@@ -22,8 +18,6 @@ The system captures student details along with a live image and stores everythin
 - Cross-language integration (C++ + C#)
 - Simple and clean Windows Forms interface
 
----
-
 ## Technologies Used
 
 - **C++** (Core logic, OOP)
@@ -31,8 +25,6 @@ The system captures student details along with a live image and stores everythin
 - **C#** (Windows Forms UI)
 - **.NET Framework**
 - **File Handling (CSV)**
-
----
 
 ## How It Works
 
@@ -47,8 +39,6 @@ The system captures student details along with a live image and stores everythin
 This demonstrates separation of concerns:
 - **C++ → Processing & image handling**
 - **C# → UI layer**
-
----
 
 ## Installation / Setup
 
